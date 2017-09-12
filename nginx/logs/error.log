@@ -1,0 +1,5 @@
+2017/09/09 17:14:09 [error] 5760#4512: *1 CreateFile() "F:\testNginx\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/09/09 17:14:09 [error] 5760#4512: *1 CreateFile() "F:\testNginx\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/09/09 20:09:19 [notice] 5396#9284: signal process started
+2017/09/11 23:13:52 [notice] 3532#2992: signal process started
+2017/09/11 23:20:07 [notice] 4544#6600: signal process started
